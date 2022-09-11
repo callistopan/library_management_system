@@ -1,0 +1,33 @@
+
+#navbarNavDropdown{
+    margin-left: 1100px;
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    color: rgb(8, 8, 8);
+    margin-top: 300px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(8, 8, 8);
+}
+button{
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(8, 8, 8);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(8, 8, 8);
+    border-radius:50px;
+    padding: 10px;
+}
+
+table{
+    margin-top: 200px !important;
+}
